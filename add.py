@@ -5,7 +5,6 @@ CSV_FILE = 'tasks.csv'
 HEADERS = ['task_content', 'priority', 'due_date', 'memo']
 
 # こちらに内容を記入
-print("hello")
 
 if __name__ == '__main__':
     # add.py を直接実行した場合のテスト用
