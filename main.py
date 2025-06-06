@@ -7,7 +7,6 @@ import delete
 # CSV_FILE_PATH = 'tasks.csv'
 # CSV_HEADERS = ['task_content', 'priority', 'due_date', 'memo']
 
-
 def main():
     # initialize_csv() # 必要であれば呼び出す
 
